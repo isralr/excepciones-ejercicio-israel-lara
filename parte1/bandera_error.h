@@ -7,10 +7,9 @@
 
 
 
-class bandera_error {
+extern bool errorFlag;
 
-};
-
+int divide(int a, int b);
 
 
 #endif //BANDERA_ERROR_H
