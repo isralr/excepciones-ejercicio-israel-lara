@@ -77,6 +77,34 @@ build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte3/ejercicio3.cpp.obj
   OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
   OBJECT_FILE_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte3
 
+build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte4/ejercicio4.cpp.obj: CXX_COMPILER__excepciones_ejercicio_israel_lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/parte4/ejercicio4.cpp || cmake_object_order_depends_target_excepciones_ejercicio_israel_lara
+  DEP_FILE = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte4\ejercicio4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/.
+  OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte4
+
+build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte5/ejercicio5.cpp.obj: CXX_COMPILER__excepciones_ejercicio_israel_lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/parte5/ejercicio5.cpp || cmake_object_order_depends_target_excepciones_ejercicio_israel_lara
+  DEP_FILE = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte5\ejercicio5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/.
+  OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte5
+
+build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte6/ejercicio6.cpp.obj: CXX_COMPILER__excepciones_ejercicio_israel_lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/parte6/ejercicio6.cpp || cmake_object_order_depends_target_excepciones_ejercicio_israel_lara
+  DEP_FILE = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte6\ejercicio6.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/.
+  OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte6
+
+build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte7/ejercicio7.cpp.obj: CXX_COMPILER__excepciones_ejercicio_israel_lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/parte7/ejercicio7.cpp || cmake_object_order_depends_target_excepciones_ejercicio_israel_lara
+  DEP_FILE = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte7\ejercicio7.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/.
+  OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir\parte7
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target excepciones_ejercicio_israel_lara
@@ -85,7 +113,7 @@ build CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte3/ejercicio3.cpp.obj
 #############################################
 # Link the executable excepciones_ejercicio_israel_lara.exe
 
-build excepciones_ejercicio_israel_lara.exe: CXX_EXECUTABLE_LINKER__excepciones_ejercicio_israel_lara_Debug CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte1/bandera_error.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/main.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte2/ejercicio2.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte3/ejercicio3.cpp.obj
+build excepciones_ejercicio_israel_lara.exe: CXX_EXECUTABLE_LINKER__excepciones_ejercicio_israel_lara_Debug CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte1/bandera_error.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/main.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte2/ejercicio2.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte3/ejercicio3.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte4/ejercicio4.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte5/ejercicio5.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte6/ejercicio6.cpp.obj CMakeFiles/excepciones_ejercicio_israel_lara.dir/parte7/ejercicio7.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\excepciones_ejercicio_israel_lara.dir
