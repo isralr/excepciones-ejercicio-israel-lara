@@ -1,0 +1,3 @@
+C:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/cmake-build-debug/CMakeFiles/excepciones_ejercicio_israel_lara.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/excepciones-ejercicio-israel-lara/cmake-build-debug/CMakeFiles/rebuild_cache.dir

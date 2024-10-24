@@ -1,6 +1,3 @@
-//
-// Created by israe on 24/10/2024.
-//
 
 #include "bandera_error.h"
 #include<iostream>
